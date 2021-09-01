@@ -1,0 +1,13 @@
+#countries
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.country
+{
+    background-color: rgb(212, 128, 113);
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
